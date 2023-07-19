@@ -103356,8 +103356,8 @@ A.al4.prototype={
 $1(a){return new A.hz(A.aR6(0),$.aU())},
 $S:573}
 A.al0.prototype={
-$2(a,b){var s,r,q,p,o,n,m=null,l="/control_panel_screen",k=A.aLc(B.aB,m,m,m,m,m),j=A.aOE(m,m,B.aB,m,m,m,B.j5).aps(B.m,B.m4,B.db,B.kB),i=t.Il
-i=A.kD(m,m,new A.bs(B.db,i),m,m,m,new A.bs(B.m,i),m,m,m,m,m,m,new A.bs(B.pg,t.Ni),m,m,m,m,m,m,m,m)
+$2(a,b){var s,r,q,p,o,n,m=null,l=A.aLc(B.aB,m,m,m,m,m),k=A.aOE(m,m,B.aB,m,m,m,B.j5).aps(B.m,B.m4,B.db,B.kB),j=t.Il
+j=A.kD(m,m,new A.bs(B.db,j),m,m,m,new A.bs(B.m,j),m,m,m,m,m,m,new A.bs(B.pg,t.Ni),m,m,m,m,m,m,m,m)
 s=$.aG()
 r=s.gdq()
 q=s.a
@@ -103377,8 +103377,8 @@ o=$.aG()
 r=o.gdq()
 n=o.a
 n===$&&A.b()
-o=k.apw(B.I3,j,new A.vT(i),A.aQ6(new A.eQ(4,s,B.dM),new A.eQ(4,p,B.dM),new A.eQ(4,q,B.dM),new A.eQ(4,A.fB(20*Math.min(r/n.a,o.gbP())),B.nQ)),B.db,B.m,B.kB,!0)
-return new A.rQ(A.ar(["/auth_screen",new A.akU(),"/new_commission_screen",new A.akV(),l,new A.akW(),"/home_dashboard_screen",new A.akX(),"/about_commission_dashboard_screen",new A.akY(),"/campaigns_dashboard_screen",new A.akZ(),"/member_management_dashboard_screen",new A.al_()],t.N,t.Ab),l,"Jordanian Zakat Committees Admin",o,B.Uj,B.X4,!1,m)},
+o=l.apw(B.I3,k,new A.vT(j),A.aQ6(new A.eQ(4,s,B.dM),new A.eQ(4,p,B.dM),new A.eQ(4,q,B.dM),new A.eQ(4,A.fB(20*Math.min(r/n.a,o.gbP())),B.nQ)),B.db,B.m,B.kB,!0)
+return new A.rQ(A.ar(["/auth_screen",new A.akU(),"/new_commission_screen",new A.akV(),"/control_panel_screen",new A.akW(),"/home_dashboard_screen",new A.akX(),"/about_commission_dashboard_screen",new A.akY(),"/campaigns_dashboard_screen",new A.akZ(),"/member_management_dashboard_screen",new A.al_()],t.N,t.Ab),"/auth_screen","Jordanian Zakat Committees Admin",o,B.Uj,B.X4,!1,m)},
 $S:574}
 A.akU.prototype={
 $1(a){return B.Ia},
